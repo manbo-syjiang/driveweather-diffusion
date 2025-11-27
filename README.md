@@ -1,6 +1,6 @@
 # DriveWeather-Diff
 ## To-Do
+- [ ] Release the structured weather-paired dataset **SimDrive-Weather**
+- [ ] Release the source code for the **Weather Normalization** stage
+- [ ] Release the source code for the **Weather Generation** stage
 
-- [ ] 结构化天气配对数据集 SimDrive-Weather 开源
-- [ ] 天气归一化阶段源码开源
-- [ ] 天气生成阶段源码开源
