@@ -1,4 +1,4 @@
-# DriveWeather-Diff
+# DriveWeather
 ## To-Do
 - [ ] The manuscript is being submitted **Manuscript submission**
 - [ ] Release the structured weather-paired dataset **SimDrive-Weather**
