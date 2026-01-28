@@ -35,7 +35,7 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 <p align="center"><em>Figure 2. Motion-Consistent / main results.</em></p>
 
 <p align="center">
-  <img src="assets/figures/fig3.png" width="98%" />
+  <img src="assets/figures/fig02.jpg" width="98%" />
 </p>
 <p align="center"><em>Figure 3. Motion-consistent weather dynamics (ego-motion-consistent visual drift).</em></p>
 
