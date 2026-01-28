@@ -19,7 +19,7 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 <p align="center">
   <img src="assets/figures/teaser.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 1. Overview of DriveWeather. (Replace this caption with your paper caption.)</em></p>
+<p align="center"><em>Figure 1. Overview of DriveWeather.</em></p>
 
 **Core components**
 - **MSP**: perceives ego-motion states and scene structure; provides motion-aware conditions for diffusion.
