@@ -14,14 +14,7 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 ---
 
-## Dataset
 
-<p align="center">
-  <img src="assets/figures/fig_dataset.jpg" width="98%" />
-</p>
-<p align="center"><em>Figure 2. Dataset demo.</em></p>
-
----
 
 ## Method
 
@@ -33,6 +26,15 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 **Core components**
 - **MSP**: perceives ego-motion states and scene structure; provides motion-aware conditions for diffusion.
 - **DACB**: calibrates generation and reduces artifacts/hallucinations in low-texture regions.
+
+---
+
+## Dataset
+
+<p align="center">
+  <img src="assets/figures/fig_dataset.jpg" width="98%" />
+</p>
+<p align="center"><em>Figure 2. Dataset demo.</em></p>
 
 ---
 
