@@ -27,9 +27,8 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 ---
 
-## Experiments
+## Results
 
-### Qualitative Results
 <p align="center">
   <img src="assets/figures/fig01.jpg" width="98%" />
 </p>
