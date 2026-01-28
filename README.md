@@ -1,7 +1,7 @@
 # DriveWeather: A Motion-Consistent Dynamic Weather Synthesis Framework via Video-to-Video Diffusion for Autonomous Driving
 
 <p align="center">
-  <a href="#dataset">Training</a> •
+  <a href="#dataset">Dataset</a> •
   <a href="#citation">Citation</a>
 </p>
 
