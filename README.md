@@ -31,7 +31,7 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 ## Method
 
 <p align="center">
-  <img src="assets/figures/fig1_method.png" width="95%" />
+  <img src="assets/figures/teaser.jpg" width="95%" />
 </p>
 <p align="center"><em>Figure 1. Overview of DriveWeather. (Replace this caption with your paper caption.)</em></p>
 
