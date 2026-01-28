@@ -14,6 +14,15 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 ---
 
+## Dataset
+
+<p align="center">
+  <img src="assets/figures/fig_dataset.jpg" width="98%" />
+</p>
+<p align="center"><em>Figure 2. Dataset demo.</em></p>
+
+---
+
 ## Method
 
 <p align="center">
@@ -32,22 +41,22 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 <p align="center">
   <img src="assets/figures/fig_step1.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 2. Step1 results.</em></p>
+<p align="center"><em>Figure 3. Step1 results.</em></p>
 
 <p align="center">
   <img src="assets/figures/fig_step2.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 3. Step2 results.</em></p>
+<p align="center"><em>Figure 4. Step2 results.</em></p>
 
 <p align="center">
   <img src="assets/figures/fig01.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 4. Motion-Consistent results.</em></p>
+<p align="center"><em>Figure 5. Motion-Consistent results.</em></p>
 
 <p align="center">
   <img src="assets/figures/fig02.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 5. Results of adjusting different optical flow intensities.</em></p>
+<p align="center"><em>Figure 6. Results of adjusting different optical flow intensities.</em></p>
 
 
 ---
