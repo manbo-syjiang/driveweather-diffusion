@@ -28,7 +28,7 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 ## Method
 
 <p align="center">
-  <img src="assets/figures/teaser.jpg" width="95%" />
+  <img src="assets/figures/teaser.jpg" width="98%" />
 </p>
 <p align="center"><em>Figure 1. Overview of DriveWeather. (Replace this caption with your paper caption.)</em></p>
 
@@ -42,12 +42,12 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 ### Qualitative Results
 <p align="center">
-  <img src="assets/figures/fig2.png" width="95%" />
+  <img src="assets/figures/fig01.jpg" width="98%" />
 </p>
-<p align="center"><em>Figure 2. Qualitative comparison / main results.</em></p>
+<p align="center"><em>Figure 2. Motion-Consistent / main results.</em></p>
 
 <p align="center">
-  <img src="assets/figures/fig3.png" width="95%" />
+  <img src="assets/figures/fig3.png" width="98%" />
 </p>
 <p align="center"><em>Figure 3. Motion-consistent weather dynamics (ego-motion-consistent visual drift).</em></p>
 
