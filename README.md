@@ -46,5 +46,5 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 ### 1) Clone
 ```bash
-git clone https://github.com/<your-org-or-name>/DriveWeather.git
+git clone https://github.com/manbo-syjiang/driveweather-diffusion.git
 cd DriveWeather
