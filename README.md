@@ -39,19 +39,15 @@ It explicitly models **ego-motion states** and **scene structure** to generate *
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img width="100%" src="assets/figures/dataset_video1.gif"></td>
-    <td><img width="100%" src="assets/figures/dataset_video2.gif"></td>
-  </tr>
-  <tr>
-    <td><img width="100%" src="assets/figures/dataset_video3.gif"></td>
-    <td><img width="100%" src="assets/figures/dataset_video4.gif"></td>
-  </tr>
-</table>
+  <img src="assets/figures/dataset_video1.gif" width="48%" />
+  <img src="assets/figures/dataset_video2.gif" width="48%" />
+
+  <br>
+
+  <img src="assets/figures/dataset_video3.gif" width="48%" />
+  <img src="assets/figures/dataset_video4.gif" width="48%" />
 
 </div>
-
 ---
 
 ## Results
